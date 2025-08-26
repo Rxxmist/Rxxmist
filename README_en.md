@@ -30,7 +30,7 @@ My goal is to design tools that help businesses make faster and more accurate de
 ## Current Focus
 - Building case studies and projects for my GitHub portfolio  
 - Solving freelance tasks in analytics and BI  
-- Developing **KstaFin** — a personal finance tracking application  
+- Developing **xtaFin** — a personal finance tracking application  
 
 ---
 
